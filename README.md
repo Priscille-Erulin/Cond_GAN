@@ -1,1 +1,2 @@
-# Cond_GAN
+# Conditional GAN
+Aimed at predicting digits using labels.
